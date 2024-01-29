@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is ##chukwuwetalu precious ngozi. i am a data analyst 
+my name is **chukwuwetalu precious ngozi.** i am a data analyst 
 
 
 - 🔭 I’m a business administration turn data analyst  ...
